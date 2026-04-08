@@ -1,0 +1,5 @@
+/vendor/
+/.env
+/storage/db/*.sqlite
+/storage/exports/*.xlsx
+/storage/pdf/*.pdf
